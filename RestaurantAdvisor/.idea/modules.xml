@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Restaurant_Advisor.iml" filepath="$PROJECT_DIR$/.idea/modules/Restaurant_Advisor.iml" group="Restaurant_Advisor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Restaurant Advisor/app" />
+    </modules>
+  </component>
+</project>
